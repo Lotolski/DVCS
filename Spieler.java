@@ -15,3 +15,4 @@ public class Spieler {
 		this.spielzugSpieler = spielzugSpieler;
 	}
 }
+//Änderung
